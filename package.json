@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/webtutsplus/videoChat-WebFrontend.git"
+    "url": "git+https://github.com/QuangHuy-22/videochat.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/webtutsplus/videoChat-WebFrontend/issues"
+    "url": "https://github.com/QuangHuy-22/videochat.git/issues"
   },
-  "homepage": "https://github.com/webtutsplus/videoChat-WebFrontend#readme",
+  "homepage": "https://github.com/QuangHuy-22/videochat.git#readme",
   "dependencies": {
     "ejs": "^3.1.5",
     "express": "^4.17.1",
